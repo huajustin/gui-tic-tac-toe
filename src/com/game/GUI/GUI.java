@@ -1,7 +1,7 @@
-package com.test.GUI;
+package com.game.GUI;
 
-import com.test.Game.TicTacToeGame;
-import com.test.Player.Player;
+import com.game.Game.TicTacToeGame;
+import com.game.Player.Player;
 
 import javax.swing.*;
 import java.awt.*;

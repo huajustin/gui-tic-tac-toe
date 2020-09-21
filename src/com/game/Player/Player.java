@@ -1,4 +1,4 @@
-package com.test.Player;
+package com.game.Player;
 
 public interface Player {
 

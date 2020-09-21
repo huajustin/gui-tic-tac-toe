@@ -1,6 +1,6 @@
-package com.test.Player;
+package com.game.Player;
 
-import com.test.Game.TicTacToeGame;
+import com.game.Game.TicTacToeGame;
 
 public class User implements Player {
     private String name;

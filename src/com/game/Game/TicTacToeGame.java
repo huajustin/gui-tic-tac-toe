@@ -1,9 +1,9 @@
-package com.test.Game;
+package com.game.Game;
 
-import com.test.GUI.GUI;
-import com.test.Player.CPU;
-import com.test.Player.Player;
-import com.test.Player.User;
+import com.game.GUI.GUI;
+import com.game.Player.CPU;
+import com.game.Player.Player;
+import com.game.Player.User;
 
 public class TicTacToeGame {
 

@@ -1,7 +1,7 @@
-package com.test.Player;
+package com.game.Player;
 
-import com.test.GUI.GUI;
-import com.test.Game.TicTacToeGame;
+import com.game.GUI.GUI;
+import com.game.Game.TicTacToeGame;
 
 public class CPU implements Player {
     private final String name;
